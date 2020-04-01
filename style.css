@@ -83,8 +83,9 @@ label {
     font-weight: bold;
     padding-right: 40px;
 }
-.blueColor {
+.blueColor, .loadMore > a{
     color: #2d7eb2;
+    text-decoration: none;
 }
 
 .blackColor {
