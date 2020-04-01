@@ -150,4 +150,26 @@ label {
   .col-50 {
       text-align: center;
   }
+  .font26 {
+    font-size: 1.1rem;
+}
+.sectionRight {
+    font-size: 0.9rem;
+} 
+.sections {
+  margin-left: -20px;
+}
+.sectionRight {
+  padding-right: 20px;
+}
+.headerLeft {
+  padding-left: 20px;
+}
+.headerRight {
+  padding-right: 20px;
+  font-size: 1.1rem;
+}
+.autoMargin {
+  font-size: 1.1rem;
+}
 }
