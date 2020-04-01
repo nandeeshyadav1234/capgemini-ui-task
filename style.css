@@ -115,30 +115,31 @@ label {
     font-weight: bold;
 }
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other (also change the direction - make the "cart" column go on top) */
-@media screen and (max-width: 600px) and (min-width: 400px) {
+@media screen and (max-width: 550px) and (min-width: 351px) {
   .autoMargin {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 .font26 {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 .sectionRight {
     font-size: 0.9rem;
 } 
 .sections {
-  margin-left: -10px;
+  margin-left: -20px;
 }
 .sectionRight {
-  padding-right: 30px;
+  padding-right: 20px;
 }
 .headerLeft {
-  padding-left: 30px;
+  padding-left: 20px;
 }
 .headerRight {
-  padding-right: 30px;
+  padding-right: 20px;
+  font-size: 1.1rem;
 }
 }
-@media (max-width: 400px) {
+@media (max-width: 350px) {
   .row {
     flex-direction:column;
   }
