@@ -62,12 +62,13 @@ label {
 .text-center {
     text-align: center;
 }
-.loadMore {
+.loadMore, a {
     margin: auto;
     padding: 20px;
     color: #2d7eb2;
     font-size: 1.2rem;
     font-weight: bold;
+    text-decoration: none;
 }
 .headerLeft {
     font-size: 1.2rem;
