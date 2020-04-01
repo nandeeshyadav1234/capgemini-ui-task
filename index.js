@@ -1,4 +1,5 @@
 
+import './style.css';
 const acctData = [
     {
       acctNum: "AAA - 1234",
